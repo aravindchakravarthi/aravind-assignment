@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aravind-assignment/static/css/main.313fa842.css",
+    "main.js": "/aravind-assignment/static/js/main.0ee65985.js",
+    "static/js/453.9662275c.chunk.js": "/aravind-assignment/static/js/453.9662275c.chunk.js",
+    "index.html": "/aravind-assignment/index.html",
+    "main.313fa842.css.map": "/aravind-assignment/static/css/main.313fa842.css.map",
+    "main.0ee65985.js.map": "/aravind-assignment/static/js/main.0ee65985.js.map",
+    "453.9662275c.chunk.js.map": "/aravind-assignment/static/js/453.9662275c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.313fa842.css",
+    "static/js/main.0ee65985.js"
+  ]
+}
